@@ -7,7 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    id="svg8"
    version="1.1"
-   viewBox="0 0 180 80.000003"
+   viewBox="0 0 180 80"
+   preserveAspectRatio="xMidYMid meet"
    height="80"
    width="180">
   <defs
