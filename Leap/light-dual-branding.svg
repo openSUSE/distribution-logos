@@ -1,6 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
@@ -15,8 +13,8 @@
    preserveAspectRatio="xMidYMid meet"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
-   sodipodi:docname="logo.svg"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="light-dual-branding.svg"
    inkscape:export-filename="/home/lcp/Documents/git/branding-leap/yast/logo.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
@@ -30,25 +28,34 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8"
-     inkscape:cx="68.058358"
-     inkscape:cy="45.687486"
+     inkscape:cx="78.895802"
+     inkscape:cy="42.558729"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="713"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="32"
      inkscape:window-maximized="1"
      units="px"
      inkscape:pagecheckerboard="true"
-     showguides="false"
-     inkscape:guide-bbox="true">
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:document-rotation="0">
     <sodipodi:guide
        position="96.848375,55.558402"
        orientation="1,0"
        id="guide912"
        inkscape:locked="false" />
+    <sodipodi:guide
+       position="139.92247,62.6124"
+       orientation="0,-1"
+       id="guide856" />
+    <sodipodi:guide
+       position="140.07753,29.999984"
+       orientation="0,-1"
+       id="guide858" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -139,7 +146,7 @@
        sodipodi:nodetypes="cc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:48.05195236px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#73ba25;fill-opacity:1;stroke:none;stroke-width:1.20129883"
+       style="font-style:normal;font-weight:normal;font-size:48.052px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#fbc75d;fill-opacity:1;stroke:none;stroke-width:1.2013;"
        x="123.88977"
        y="1104.3004"
        id="text927"
@@ -148,21 +155,18 @@
          id="tspan925"
          x="123.88977"
          y="1104.3004"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.01731491px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#73ba25;fill-opacity:1;stroke-width:1.20129883">Leap</tspan></text>
-    <g
-       id="g844"
-       transform="matrix(0.57428358,0,0,0.57428358,120,1059.9073)"
-       style="fill:#73ba25;fill-opacity:1">
-      <path
-         id="path830"
-         d="M 34.526,38.787 59.721,19.179 34.691,0 9.495,19.608 Z"
-         inkscape:connector-curvature="0"
-         style="fill:#73ba25;fill-opacity:1" />
-      <path
-         id="path832"
-         d="M 34.548,46.15 6.683,24.798 0,29.999 34.961,56.788 69.652,29.79 62.556,24.354 Z"
-         inkscape:connector-curvature="0"
-         style="fill:#73ba25;fill-opacity:1" />
-    </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.0173px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';fill:#fbc75d;fill-opacity:1;stroke-width:1.2013;">Leap</tspan></text>
+    <path
+       d="m 139.92247,1059.9073 a 1.0151895,1.0524285 0 0 0 -0.66961,0.3031 l -11.16616,11.5756 a 1.0151895,1.0524285 0 0 0 0,1.4879 l 11.16616,11.5755 a 1.0151895,1.0524285 0 0 0 1.43512,0 l 11.16585,-11.5755 a 1.0151895,1.0524285 0 0 0 0,-1.4879 l -11.16585,-11.5756 a 1.0151895,1.0524285 0 0 0 -0.76527,-0.3031 z m 0.0471,2.5362 9.73073,10.0875 -9.73073,10.0874 -9.73033,-10.0874 z m -12.18068,16.4006 v 1.0523 a 1.0150813,1.0523162 0 0 0 0.29821,0.744 l 11.16609,11.5755 a 1.0151895,1.0524285 0 0 0 1.43519,0 l 11.16586,-11.5755 a 1.0150813,1.0523162 0 0 0 0.29821,-0.744 1.0150813,1.0523162 0 0 0 0,-0.048 v -1.0032 h -1.01523 a 1.0150813,1.0523162 0 0 0 -0.71748,0.3095 l -10.44821,10.8314 -10.44812,-10.8314 a 1.0150813,1.0523162 0 0 0 -0.71741,-0.3032 v 0 z"
+       color="#000000"
+       color-rendering="auto"
+       dominant-baseline="auto"
+       fill="#fbc75d"
+       image-rendering="auto"
+       shape-rendering="auto"
+       solid-color="#000000"
+       stop-color="#000000"
+       style="font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;isolation:auto;mix-blend-mode:normal;fill:#fbc75d;fill-opacity:1;stroke-width:0.137804"
+       id="path64-3" />
   </g>
 </svg>
