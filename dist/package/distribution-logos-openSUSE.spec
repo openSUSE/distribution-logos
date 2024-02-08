@@ -23,7 +23,7 @@ Release:        0
 Summary:        Logos for openSUSE Distros
 License:        CC-BY-SA-4.0
 URL:            https://github.com/openSUSE/distribution-logos
-Source:         %{name}-%{version}.tar.xz
+Source:         distribution-logos-%{version}.tar.xz
 BuildRequires:  hicolor-icon-theme
 BuildArch:      noarch
 
