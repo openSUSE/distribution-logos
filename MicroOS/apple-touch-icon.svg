@@ -9,28 +9,29 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="128"
    height="128"
-   version="1.1"
+   preserveAspectRatio="xMidYMid meet"
    viewBox="0 0 128 128"
-   id="svg4"
+   version="1.1"
+   id="svg2563"
    sodipodi:docname="apple-touch-icon.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)">
   <metadata
-     id="metadata10">
+     id="metadata2569">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <defs
-     id="defs8">
+     id="defs2567">
     <inkscape:path-effect
        effect="fillet_chamfer"
-       id="path-effect1141"
+       id="path-effect2481"
        is_visible="true"
        lpeversion="1"
        satellites_param="F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1 @ F,0,0,1,0,10,0,1"
@@ -57,30 +58,31 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1011"
-     id="namedview6"
+     id="namedview2565"
      showgrid="false"
-     inkscape:zoom="4.7011552"
-     inkscape:cx="14.434426"
-     inkscape:cy="67.769295"
+     inkscape:zoom="3.3242188"
+     inkscape:cx="-14.383964"
+     inkscape:cy="80.068765"
      inkscape:window-x="0"
      inkscape:window-y="32"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg4"
-     inkscape:document-rotation="0" />
+     inkscape:current-layer="svg2563" />
   <path
-     style="fill:#ffffff;fill-opacity:1;stroke:#df7320;stroke-width:1.98451;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:#ffffff;fill-opacity:1;stroke:#173f4f;stroke-width:1.98451;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect831"
      width="126.0155"
      height="126.0155"
      x="0.99225497"
      y="0.99225497"
-     inkscape:path-effect="#path-effect1141"
+     inkscape:path-effect="#path-effect2481"
      sodipodi:type="rect"
      inkscape:export-xdpi="42.91"
      inkscape:export-ydpi="42.91"
      d="M 10.992255,0.99225497 H 117.00776 a 10,10 45 0 1 10,10.00000003 V 117.00776 a 10,10 135 0 1 -10,10 H 10.992255 a 10,10 45 0 1 -10.00000003,-10 V 10.992255 A 10,10 135 0 1 10.992255,0.99225497 Z" />
   <path
-     d="m64 22a3.5003 3.5003 0 0 0-2.4746 1.0254l-33.974 33.974h-16.051a3.5 3.5 0 0 0-3.5 3.5 3.5 3.5 0 0 0 3.5 3.5h16.051l33.974 33.974a3.5003 3.5003 0 0 0 4.9492 0l33.974-33.974h16.051a3.5 3.5 0 0 0 3.5-3.5 3.5 3.5 0 0 0-3.5-3.5h-16.051l-33.974-33.974a3.5003 3.5003 0 0 0-2.4746-1.0254zm0 8.449 30.051 30.051-30.051 30.051-30.051-30.051zm0 16.051a14 14 0 0 0-14 14 14 14 0 0 0 14 14 14 14 0 0 0 14-14 14 14 0 0 0-14-14zm0 7a7 7 0 0 1 7 7 7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7zm-35 21a3.5 3.5 0 0 0-2.4746 1.0254 3.5 3.5 0 0 0 0 4.9492l37.474 37.474 37.474-37.474a3.5 3.5 0 0 0 0-4.9492 3.5 3.5 0 0 0-4.9492 0l-32.525 32.525-32.525-32.525a3.5 3.5 0 0 0-2.4746-1.0254z"
-     fill="#df7320"
-     id="path2" />
+     fill="#173f4f"
+     d="m 64.000002,29.062253 c -18.089918,0 -33.027379,13.836204 -34.791306,31.471986 H 11.546679 a 3.4972378,3.497237 0 1 0 0,6.993775 H 29.208696 C 30.972623,85.1638 45.910084,99 64.000002,99 82.089918,99 97.027379,85.1638 98.791308,67.528014 h 17.662012 a 3.4972378,3.497237 0 1 0 0,-6.993775 H 98.791308 C 97.027379,42.898457 82.089918,29.062253 64.000002,29.062253 Z m 0,6.993775 c 15.374925,0 27.76163,12.304218 27.947784,27.633593 a 3.4972378,3.497237 0 0 0 0,0.669304 C 91.768948,79.6948 79.379564,92.00623 64.000002,92.00623 c -15.374926,0 -27.761631,-12.30422 -27.947786,-27.633597 a 3.4972378,3.497237 0 0 0 0,-0.669305 c 0.178841,-15.335879 12.568228,-27.6473 27.947786,-27.6473 z m 0,13.987549 c -7.683693,0 -13.987553,6.303839 -13.987553,13.98755 0,7.68371 6.30386,13.987553 13.987553,13.987553 7.683692,0 13.987556,-6.303843 13.987549,-13.987553 0,-7.683711 -6.303857,-13.98755 -13.987549,-13.98755 z m 0,6.993775 c 3.903975,0 6.993776,3.08978 6.993776,6.993775 0,3.903995 -3.089801,6.993774 -6.993776,6.993774 -3.903976,0 -6.993777,-3.089779 -6.993777,-6.993774 0,-3.903995 3.089801,-6.993775 6.993777,-6.993775 z"
+     id="path2561"
+     inkscape:export-xdpi="42.91"
+     inkscape:export-ydpi="42.91" />
 </svg>
